@@ -1,0 +1,7 @@
+.adressSearchContainer{
+    display: flex;
+    position: fixed;
+    top: 25px;
+    left: 40%;
+    z-index: 10;
+}
